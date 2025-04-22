@@ -12,5 +12,5 @@ int main() {
 
     printf("A soma é: %d\n", soma);
     return 0;
-    #include <stdio.h>
+
 }
